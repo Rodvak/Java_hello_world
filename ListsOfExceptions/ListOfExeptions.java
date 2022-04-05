@@ -1,6 +1,4 @@
 import java.util.ArrayList;
-import java.util.Random;
-
 
 public class ListOfExeptions {
     public static void main(String[] args) {
@@ -21,3 +19,4 @@ public class ListOfExeptions {
         }
     } 
 }
+// It is just returning 48.. It should return all as an Integer.
