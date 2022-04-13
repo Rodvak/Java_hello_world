@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.alex.bookapi.models.Book;
 import com.alex.bookapi.services.BookService;
 
-// text, xml, JSON
 @RestController
 public class BooksApi {
 
